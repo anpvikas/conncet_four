@@ -1,2 +1,2 @@
-# conncet_four
+# connect_four
 Connect Four game implementation in Java
